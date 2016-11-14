@@ -1,0 +1,15 @@
+# ![Not empathy]
+! 제작자: 심심한누군가
+! 솔직히 이런 웹툰은 좀 아니잖아요
+
+! ---------필터---------
+
+##title.공감.jpg
+
+||thumb.comic.naver.net/webtoon/686911/thumbnail/title_thumbnail_20161017191626_t83x90.jpg$image
+||http://thumb.comic.naver.net/webtoon/686911/thumbnail/title_thumbnail_20161017191626_t218x120.png$image
+||static.comic.naver.net/staticImages/COMICWEB/NAVER/img/common/blank.gif$image
+comic.naver.com##a[title="공감.jpg"]
+comic.naver.com##a[href="/webtoon/list.nhn?tutleId=686911"]
+comic.naver.com##strong[title="공감.jpg"]
+comic.naver.com##a[title="임총"]
