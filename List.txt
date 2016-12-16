@@ -14,3 +14,4 @@
 ##comic.naver.com##strong[title="공감.jpg"]
 ##comic.naver.com##a[title="임총"]
 ##a[href^="/webtoon/detail.nhn?titleId=686911"]
+##a[href^="/webtoon/list.nhn?titleId=686911"]
